@@ -1,0 +1,5 @@
+Field		Type		Null	Key	Default		Extra
+cus_id		int		NO	PRI	NULL		auto_increment
+cus_name	varchar(100)	YES		NULL
+cus_email	varchar(300)	YES		NULL
+cus_message	varchar(1200)	YES		NULL

@@ -1,0 +1,12 @@
+Field			Type		Null	Key	Default	Extra
+ua_id			int		NO	PRI	NULL	auto_increment
+u_id			int		YES		NULL
+ua_name			varchar(200)	YES		NULL
+ua_phnumber		bigint		YES		NULL
+ua_alternativephnumber	bigint		YES		NULL
+ua_zipcode		int		YES		NULL
+ua_state		varchar(100)	YES		NULL
+ua_city			varchar(100)	YES		NULL
+ua_houseno		varchar(100)	YES		NULL
+ua_road_colony		varchar(200)	YES		NULL
+ua_landmark		varchar(200)	YES		NULL

@@ -1,0 +1,7 @@
+Field		Type		Null	Key	Default		Extra
+u_id		int		NO	PRI	NULL		auto_increment
+u_name		varchar(100)	YES		NULL
+u_photo		longblob	YES		NULL
+u_email		varchar(100)	YES		NULL
+u_phonenumber	varchar(10)	YES		NULL
+u_password	varchar(100)	YES		NULL

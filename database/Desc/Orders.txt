@@ -1,0 +1,20 @@
+Field				Type		Null	Key	Default		Extra
+o_id				bigint		NO	PRI	NULL		auto_increment
+u_id				mediumtext	YES		NULL
+product_size			varchar(6)	YES		NULL
+product_amount			mediumtext	YES		NULL
+product_image			varchar(1000)	YES		NULL
+product_name			varchar(120)	YES		NULL
+product_price			mediumtext	YES		NULL
+product_category		varchar(70)	YES		NULL
+recipient_name			varchar(120)	YES		NULL
+recipient_phnumber		mediumtext	YES		NULL
+recipient_alternativephnumber	mediumtext	YES		NULL
+recipient_zipcode		bigint		YES		NULL
+recipient_state			varchar(190)	YES		NULL
+recipient_city			varchar(220)	YES		NULL
+recipient_houseno		varchar(50)	YES		NULL
+recipient_road_colony		varchar(200)	YES		NULL
+recipient_landmark		varchar(300)	YES		NULL
+order_time			varchar(50)	YES  		NULL
+order_date 			varchar(50)	YES 		NULL 		

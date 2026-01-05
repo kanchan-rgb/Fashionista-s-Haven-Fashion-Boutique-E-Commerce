@@ -1,0 +1,12 @@
+Field            Type		Null	Key	Default		Extra
+p_id             int		NO	PRI	NULL		auto_increment
+p_name           varchar(500)	YES		NULL
+p_brand   	 varchar(500)	YES		NULL
+p_price  	 int		YES		NULL
+p_description	 varchar(1000)	YES		NULL
+p_category	 varchar(100)	YES		NULL
+p_stock	  	 int		YES		NULL
+p_reviews	 int		YES		NULL
+p_stars	         double		YES		NULL
+p_image	         varchar(1000)	YES		NULL
+p_featured       tinyint(1)	YES		NULL

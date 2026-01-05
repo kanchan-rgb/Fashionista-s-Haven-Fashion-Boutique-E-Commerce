@@ -1,0 +1,5 @@
+Field		Type		Null	Key	Default	Extra
+f_id		int		NO	PRI	NULL	auto_increment
+u_id		int		YES		NULL
+f_star		int		YES		NULL
+f_description	varchar(1000)	YES		NULL

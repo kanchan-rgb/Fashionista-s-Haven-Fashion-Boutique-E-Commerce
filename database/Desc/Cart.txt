@@ -1,0 +1,10 @@
+Field		Type		Null	Key	Default		Extra
+c_id		int		NO	PRI	NULL		auto_increment
+u_id		int		YES		NULL
+p_id		int		YES		NULL
+c_size		varchar(20)	YES		NULL
+c_amount	int		YES		NULL
+c_image		varchar(3000)	YES		NULL
+c_name		varchar(1500)	YES		NULL
+c_price		bigint		YES		NULL
+c_category	varchar(100)	YES		NULL
